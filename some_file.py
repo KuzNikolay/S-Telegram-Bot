@@ -1,1 +1,1 @@
-print ('This are new local change')
+print('This are new local change')
